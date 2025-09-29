@@ -1,0 +1,11 @@
+{
+  "name": "@sbox/devbox",
+  "version": "0.0.1",
+  "description": "Sbox Devbox wrapper: CSB-compatible preview URL + FS client",
+  "type": "module",
+  "main": "./index.js",
+  "exports": { ".": "./index.js" },
+  "files": ["index.js", "index.d.ts", "README.md", "LICENSE"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

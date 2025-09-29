@@ -1,0 +1,11 @@
+node_modules/
+bun.lockb
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+dist/
+.nyc_output/
+coverage/
+.env
+.DS_Store
+*.log
